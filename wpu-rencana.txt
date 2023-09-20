@@ -6,4 +6,5 @@ JAVASCRIPT
 CSS
 PYTHON
 C++
+Photoshop
 Laravel
