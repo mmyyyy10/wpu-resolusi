@@ -6,3 +6,4 @@ JAVASCRIPT
 CSS
 PYTHON
 C++
+Photoshop
